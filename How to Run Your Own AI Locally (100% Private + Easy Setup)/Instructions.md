@@ -1,4 +1,4 @@
-# Self-Hosted Private AI: Run Locally on Your Laptop or PC, on Your Home Server (Proxmox VE), or in the Cloud on a Virtual Private Server (VPS).
+# Self-Hosted Your AI: Run Locally on Your Laptop or PC, Home Server (Proxmox VE), or in the Cloud on a Virtual Private Server (VPS).
 
 Welcome to your ultimate guide for **self-hosting a fully private AI** on your own computer, home server, or in the cloud!  
 Whether you’re on **Windows**, **Linux**, a **home server with Proxmox VE**, or a **VPS**, this guide will walk you **step by step** through installing, configuring, and running your AI locally or remotely.
