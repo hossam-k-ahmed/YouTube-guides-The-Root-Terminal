@@ -112,8 +112,8 @@ For **Fedora**, we will use **firewalld**, the default and recommended firewall 
 ### 5. Allow Ollama API (11434).
     sudo ufw allow 11434/tcp
 
-### 6. Allow Open WebUI Port (3000).
-    sudo ufw allow 3000/tcp
+### 6. Allow Open WebUI Port (8080).
+    sudo ufw allow 8080/tcp
 
 ### 7. Enable UFW.
     sudo ufw enable
@@ -139,8 +139,8 @@ For **Fedora**, we will use **firewalld**, the default and recommended firewall 
 ### 5. Allow Ollama API (11434).
     sudo ufw allow 11434/tcp
 
-### 6. Allow Open WebUI Port (3000).
-    sudo ufw allow 3000/tcp
+### 6. Allow Open WebUI Port (8080).
+    sudo ufw allow 8080/tcp
 
 ### 7. Enable UFW.
     sudo ufw enable
@@ -158,8 +158,8 @@ For **Fedora**, we will use **firewalld**, the default and recommended firewall 
 ### 3. Allow Ollama API Port (11434).
     sudo firewall-cmd --permanent --add-port=11434/tcp
 
-### 4. Allow Open WebUI Port (3000).
-    sudo firewall-cmd --permanent --add-port=3000/tcp
+### 4. Allow Open WebUI Port (8080).
+    sudo firewall-cmd --permanent --add-port=8080/tcp
 
 ### 5. Apply The Changes.
     sudo firewall-cmd --reload
