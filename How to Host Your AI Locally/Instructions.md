@@ -40,7 +40,7 @@ This guide works on **any modern Linux distribution**.
 
 Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fedora** and **Arch Linux**.
 
-[**Please proceed to the Firewall Configuration**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Run%20Your%20Own%20AI%20Locally%20(100%25%20Private%20+%20Easy%20Setup)/Instructions.md#1-firewall-configuration)  
+[**Please proceed to the Firewall Configuration**]()  
 
 > **Tip:** Make sure your system is fully updated to avoid dependency issues.
 
@@ -51,7 +51,7 @@ Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fed
 
 Ensure you have **Homebrew** installed for easy dependency management.
 
-[**Please proceed to the Firewall Configuration**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Run%20Your%20Own%20AI%20Locally%20(100%25%20Private%20+%20Easy%20Setup)/Instructions.md#1-firewall-configuration)
+[**Please proceed to Installing Ollama on macOS**]()
 
 ---
 ## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> Windows Users
