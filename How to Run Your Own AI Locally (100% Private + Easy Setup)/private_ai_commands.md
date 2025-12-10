@@ -22,7 +22,7 @@ You can skip the WSL installation and proceed directly.
 
 ---
 
-## 🪟 For Windows Users
+## For![windows](https://github.com/user-attachments/assets/47469ffa-7245-4cd2-8309-58aec5ad66fe) Windows Users
 
 We recommend installing the **Windows Subsystem for Linux (WSL)**.  
 WSL lets you run a full Linux environment directly on Windows — perfect for AI projects.  
