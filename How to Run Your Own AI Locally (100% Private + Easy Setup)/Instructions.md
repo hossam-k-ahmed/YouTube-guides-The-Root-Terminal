@@ -44,7 +44,7 @@ This guide works on **any modern Linux distribution**.
 
 Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fedora** and **Arch Linux**.
 
-[**Please proceed to the Firewall Configuration:**]()  
+[**Please proceed to the Firewall Configuration**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Run%20Your%20Own%20AI%20Locally%20(100%25%20Private%20+%20Easy%20Setup)/Instructions.md#1-firewall-configuration)  
 
 > **Tip:** Make sure your system is fully updated to avoid dependency issues.
 
