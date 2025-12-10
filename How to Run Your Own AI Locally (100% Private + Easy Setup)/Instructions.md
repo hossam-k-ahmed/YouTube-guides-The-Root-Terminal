@@ -2,8 +2,6 @@
 
 Whether you’re on **Windows**, **Linux**, a **home server with Proxmox VE**, or a **VPS**, this guide will walk you **step by step** through installing, configuring, and running your AI locally or remotely.
 
----
-
 I will cover how to **self-host [Open WebUI](https://github.com/open-webui/open-webui)** using [**Ollama**](https://github.com/ollama/ollama) as the LLM runner.
 
 Open WebUI is an **extensible, feature-rich, and user-friendly AI platform** designed to operate entirely offline.
