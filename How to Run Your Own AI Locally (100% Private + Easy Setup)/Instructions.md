@@ -99,8 +99,8 @@ For **Debian-based systems (Debian/Ubuntu)** and **Arch Linux**, we will use **U
 For **Fedora**, we will use **firewalld**, the default and recommended firewall management tool on RPM-based systems.
 
 
-# 1.1 <img width="29" height="33" alt="debian" src="https://github.com/user-attachments/assets/1665750e-83dc-4dc2-af42-169cd577a9dc" /> Debian & Ubuntu (UFW)
-### 1. Update System
+#  <img width="29" height="33" alt="debian" src="https://github.com/user-attachments/assets/1665750e-83dc-4dc2-af42-169cd577a9dc" /> Debian & Ubuntu (UFW)
+### 1. Update, Upgrade, and Remove Unused Packages.
 
     sudo apt update && sudo apt dist-upgrade -y && sudo apt autoremove -y
 
