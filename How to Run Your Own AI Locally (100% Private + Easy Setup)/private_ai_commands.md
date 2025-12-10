@@ -16,12 +16,12 @@ Whether you’re on **Windows** or **Linux**, this guide will walk you **step by
 
 ---
 
-## For <img width="29" height="33" alt="linux" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> Linux Users
+## <img width="29" height="33" alt="linux" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> For Linux Users
 
 You can skip the WSL installation and proceed directly.
 
 ---
-## For <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> Windows Users
+## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> For Windows Users
 
 We recommend installing the **Windows Subsystem for Linux (WSL)**.  
 WSL lets you run a full Linux environment directly on Windows — perfect for AI projects.  
