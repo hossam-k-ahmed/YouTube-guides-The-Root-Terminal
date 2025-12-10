@@ -125,7 +125,7 @@ For **Fedora**, we will use **firewalld**, the default and recommended firewall 
     sudo ufw status verbose
 
 
-# <img width="29" height="33" alt="arch" src="https://github.com/user-attachments/assets/ccaf0a0c-5c3d-4c6b-a5fa-40d8609490cd" /> Arch Linux (UFW)
+# <img width="500" height="500" alt="arch" src="https://github.com/user-attachments/assets/861319ac-38af-4b4f-badb-3fb1980fcd65" /> Arch Linux (UFW)
 ### 1. 1. Update The System.
 
     sudo pacman -Syu
