@@ -12,7 +12,11 @@ Whether you’re on **Windows** or **Linux**, this guide will walk you **step by
 - **⚙️ Customize models and workflows** exactly how you want.  
 - **💰 Save costs** by running AI entirely on your own hardware.  
 
-> **Tip:** Running AI locally gives you full control and avoids cloud limitations or fees.
+**Hardware Recommendations:**
+> **Running AI locally gives you full control and avoids cloud limitations or fees.**
+> **Tip (CPU):** A modern multi-core CPU with at least 4 cores is recommended. Higher clock speeds and multiple cores improve AI performance, especially when running models without a GPU.
+> **Tip (RAM):** For a smooth AI experience, we recommend a minimum of 16 GB of RAM for one user. More RAM (32 GB+) allows you to run larger models or multiple processes simultaneously without slowdowns. Less than 16 GB may limit model sizes or performance.
+> **Tip (GPU):** A dedicated GPU is strongly recommended for AI tasks, particularly for model training or running large models. NVIDIA GPUs are the most commonly supported; AMD GPUs can also work with some frameworks. Before proceeding, ensure your GPU drivers are up-to-date by following the official driver guides from your hardware manufacturer. A supported GPU can drastically improve speed and responsiveness.
 
 ---
 
@@ -23,7 +27,7 @@ You can skip the WSL installation and proceed directly.
 ---
 ## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> For Windows Users
 
-We recommend installing the ** Windows Subsystem for Linux (WSL)**, which allows you to run a full Linux environment directly on Windows.
+We recommend installing the **Windows Subsystem for Linux (WSL)**, which allows you to run a full Linux environment directly on Windows.
 
 **Open the Command Prompt (cmd) and run:**
 
