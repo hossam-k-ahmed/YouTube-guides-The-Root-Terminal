@@ -8,6 +8,7 @@ Whether you’re on **Windows**, **Linux**, a **home server with Proxmox VE**, o
 We will cover how to **self-host [Open WebUI](https://github.com/open-webui/open-webui)** using [**Ollama**](https://github.com/ollama/ollama) as the LLM runner.
 
 Open WebUI is an **extensible, feature-rich, and user-friendly AI platform** designed to operate entirely offline.
+
 Ollama allows you to run LLMs locally with a simple interface, and Open WebUI provides a **built-in inference engine for RAG (retrieval-augmented generation)** — making it a powerful solution for deploying AI privately and securely.
 
 **Additionally**, we will show you how to **expose your AI safely for external access**, depending on the deployment method you choose, using:
