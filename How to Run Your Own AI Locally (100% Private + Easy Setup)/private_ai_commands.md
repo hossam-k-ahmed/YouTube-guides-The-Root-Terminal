@@ -16,7 +16,7 @@ Whether you’re on **Windows** or **Linux**, this guide will walk you **step by
 
 ---
 
-## For <img width="228" height="270" alt="linux" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> Linux Users
+## For <img width="114" height="135" alt="linux" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> Linux Users
 
 You can skip the WSL installation and proceed directly.
 
