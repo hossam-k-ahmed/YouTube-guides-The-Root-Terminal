@@ -1,12 +1,14 @@
 # Self-Hosted Private AI: Run Locally on Your Laptop or PC, on Your Home Server (Proxmox VE), or in the Cloud on a Virtual Private Server (VPS).
 
 Welcome to your ultimate guide for **self-hosting a fully private AI** on your own computer, home server, or in the cloud!  
-Whether you’re on **Windows**, **Linux**, a **home server with Proxmox VE**, or a **VPS**, this guide will walk you **step by step** through installing, configuring, and running your AI locally or remotely — **100% private, with no cloud dependencies unless you choose to run remotely**. 
+Whether you’re on **Windows**, **Linux**, a **home server with Proxmox VE**, or a **VPS**, this guide will walk you **step by step** through installing, configuring, and running your AI locally or remotely.
 
 ---
 
 We will cover how to **self-host [Open WebUI](https://github.com/open-webui/open-webui)** using [**Ollama**](https://github.com/ollama/ollama) as the LLM runner.
+
 Open WebUI is an **extensible, feature-rich, and user-friendly AI platform** designed to operate entirely offline.
+
 Ollama allows you to run LLMs locally with a simple interface, and Open WebUI provides a **built-in inference engine for RAG (retrieval-augmented generation)** — making it a powerful solution for deploying AI privately and securely.
 
 **Additionally**, we will show you how to **expose your AI safely for external access**, depending on the deployment method you choose, using:
