@@ -170,7 +170,7 @@ For **Fedora**, we will use **firewalld**, the default and recommended firewall 
     sudo systemctl enable --now firewalld
 
 
-## 2. Install Ollama on Linux
+## 2. Install Ollama on Linux:
 
 Installing **Ollama** is very simple and works on most modern Linux distributions, including **Debian, Ubuntu, Arch, and Fedora**.
 
