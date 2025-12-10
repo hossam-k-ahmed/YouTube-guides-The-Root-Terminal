@@ -15,4 +15,7 @@ echo              Run Your Own Local AI Setup — 100%% Private • No Cloud
 echo =======================================================================
 echo.
 
-pause
+REM =============================
+REM Keep cmd open
+REM =============================
+cmd /k
