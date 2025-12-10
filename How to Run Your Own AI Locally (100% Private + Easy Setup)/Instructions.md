@@ -11,7 +11,7 @@ Open WebUI is an **extensible, feature-rich, and user-friendly AI platform** des
 
 Ollama allows you to run LLMs locally with a simple interface, and Open WebUI provides a **built-in inference engine for RAG (retrieval-augmented generation)** — making it a powerful solution for deploying AI privately and securely.
 
-**Additionally**, we will show you how to **expose your AI safely for external access**, depending on the deployment method you choose, using:
+**Additionally**, i will show you how to **expose your AI safely for external access**, depending on the deployment method you choose, using:
 
 - **Netbird** – secure private networking.
 - **Nginx with Let’s Encrypt SSL** – encrypted web access.  
@@ -31,9 +31,11 @@ Ollama allows you to run LLMs locally with a simple interface, and Open WebUI pr
   
 > **(CPU):** A modern multi-core CPU with at least 4 cores is recommended. Higher clock speeds and multiple cores improve AI performance, especially when running models without a GPU.
   
-> **(RAM):** For a smooth AI experience, we recommend a minimum of 16 GB of RAM for one user. More RAM (32 GB+) allows you to run larger models or multiple processes simultaneously without slowdowns. Less than 16 GB may limit model sizes or performance.
+> **(RAM):** For a smooth AI experience, i recommend a minimum of 16 GB of RAM for one user. More RAM (32 GB+) allows you to run larger models or multiple processes simultaneously without slowdowns. Less than 16 GB may limit model sizes or performance.
 
-> **(GPU):** A dedicated GPU is strongly recommended for AI tasks, particularly for model training or running large models. NVIDIA GPUs are the most commonly supported; AMD GPUs can also work with some frameworks. Before proceeding, ensure your GPU drivers are up-to-date by following the official driver guides from your hardware manufacturer. A supported GPU can drastically improve speed and responsiveness.
+> **(GPU):** A dedicated GPU is strongly recommended for AI tasks, particularly for model training or running large models. NVIDIA GPUs are the most commonly supported; AMD GPUs can also work with some frameworks.
+Before proceeding, ensure your GPU drivers are up-to-date by following the official driver guides from your hardware manufacturer.
+A supported GPU can drastically improve speed and responsiveness.
 
 ---
 
@@ -50,7 +52,7 @@ Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fed
 ---
 ## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> For Windows Users
 
-We recommend installing the **Windows Subsystem for Linux (WSL)**, which allows you to run a full Linux environment directly on Windows.
+I recommend installing the **Windows Subsystem for Linux (WSL)**, which allows you to run a full Linux environment directly on Windows.
 
 **Open the Command Prompt (cmd) and run:**
 
