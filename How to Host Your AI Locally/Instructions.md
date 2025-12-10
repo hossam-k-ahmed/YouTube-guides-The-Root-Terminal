@@ -52,7 +52,7 @@ Requires **macOS 14 Sonoma or later**.
 Ollama requires some dependencies that are easily managed with **Homebrew**.  
 Follow the official guide to install Homebrew: [https://brew.sh/](https://brew.sh/)
 
-Once installed, you can use Homebrew to manage dependencies like `curl`, `wget`, or `docker`.
+Once installed, you can use Homebrew to manage dependencies like `curl`, `wget`, and `docker`.
 
 [**Please proceed to Installing Ollama on macOS**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Host%20Your%20AI%20Locally/Instructions.md#install-ollama-on-macos)
 
