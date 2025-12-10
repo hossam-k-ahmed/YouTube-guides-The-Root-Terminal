@@ -175,12 +175,21 @@ For **Fedora**, we will use **firewalld**, the default and recommended firewall 
 Installing **Ollama** is very simple and works on most modern Linux distributions, including **Debian, Ubuntu, Arch, and Fedora**.
 
 ### Run the Official Installer
-Execute the following command in your terminal:
+Execute the following command in your terminal.
+⚠️ Important: Always verify scripts downloaded from the internet. This is the official Ollama installation script.
 
     curl -fsSL https://ollama.com/install.sh | sh
 
-Verify the Installation
+### Verify the Installation
+After installation, check that Ollama is correctly installed, You should see the installed version printed in your terminal.
     
     ollama --version
 
+### Verify the API in the Browser
+On your local machine open the browser and go to:
+    
+    http://localhost:11434
+If running on a VPS:
 
+    http://Your-IP-Address:11434
+You should see a confirmation or API status page, indicating the Ollama API is running correctly.
