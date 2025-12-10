@@ -34,7 +34,7 @@ Ollama allows you to run LLMs locally with a simple interface, and Open WebUI pr
 
 ---
 
-## <img width="29" height="33" alt="linux" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> Linux Users & Home Servers (Proxmox VE)
+## <img width="29" height="33" alt="linux" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> Linux & Home Servers (Proxmox VE)
 
 Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fedora** and **Arch Linux**.
 
@@ -45,14 +45,14 @@ Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fed
 
 ---
 
-## <img width="60" height="99" alt="Apple" src="https://github.com/user-attachments/assets/572f0449-ff65-40f0-af24-5ce1f5df805b" /> macOS Users
+## <img width="60" height="99" alt="Apple" src="https://github.com/user-attachments/assets/572f0449-ff65-40f0-af24-5ce1f5df805b" /> macOS
 
 Ensure you have **Homebrew** installed for easy dependency management.
 
 [**Please proceed to Installing Ollama on macOS**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Host%20Your%20AI%20Locally/Instructions.md#install-ollama-on-macos)
 
 ---
-## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> Windows Users
+## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> Windows
 
 I recommend installing the **Windows Subsystem for Linux (WSL)**, which allows you to run a full Linux environment directly on Windows.
 
