@@ -18,7 +18,8 @@ Whether you’re on **Windows** or **Linux**, this guide will walk you **step by
 
 ## For Linux Users
 
-You can skip the WSL installation and proceed directly.  
+You can skip the WSL installation and proceed directly.
+
 ---
 
 ## 🪟 For Windows Users
