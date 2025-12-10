@@ -92,14 +92,14 @@ Once rebooted, launch your Linux distro from the Start Menu to continue setup.
 
 
 ---
-## Firewall Configuration:
+## 1. Firewall Configuration:
 
 Before exposing any services, it's important to configure a secure firewall.  
 For **Debian-based systems (Debian/Ubuntu)** and **Arch Linux**, we will use **UFW (Uncomplicated Firewall)** because it is simple, reliable, and easy to configure.  
 For **Fedora**, we will use **firewalld**, the default and recommended firewall management tool on RPM-based systems.
 
 
-# <img width="29" height="33" alt="debian" src="https://github.com/user-attachments/assets/1665750e-83dc-4dc2-af42-169cd577a9dc" /> Debian & Ubuntu (UFW)
+# 1.1 <img width="29" height="33" alt="debian" src="https://github.com/user-attachments/assets/1665750e-83dc-4dc2-af42-169cd577a9dc" /> Debian & Ubuntu (UFW)
 ### 1. Update System
 
     sudo apt update && sudo apt dist-upgrade -y && sudo apt autoremove -y
