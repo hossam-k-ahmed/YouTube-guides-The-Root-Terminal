@@ -34,9 +34,7 @@ Ollama allows you to run LLMs locally with a simple interface, and Open WebUI pr
   
 > **(RAM):** For a smooth AI experience, i recommend a minimum of 16 GB of RAM for one user. More RAM (32 GB+) allows you to run larger models or multiple processes simultaneously without slowdowns. Less than 16 GB may limit model sizes or performance.
 
-> **(GPU):** A dedicated GPU is strongly recommended for AI tasks, particularly for model training or running large models. NVIDIA GPUs are the most commonly supported; AMD GPUs can also work with some frameworks.
-Before proceeding, ensure your GPU drivers are up-to-date by following the official driver guides from your hardware manufacturer.
-A supported GPU can drastically improve speed and responsiveness.
+> **(GPU):** A dedicated GPU is strongly recommended for AI tasks, particularly for model training or running large models. NVIDIA GPUs are the most commonly supported, AMD GPUs can also work with some frameworks. Before proceeding, ensure your GPU drivers are up-to-date by following the official driver guides from your hardware manufacturer. A supported GPU can drastically improve speed and responsiveness.
 
 ---
 
@@ -45,8 +43,8 @@ A supported GPU can drastically improve speed and responsiveness.
 This guide works on **any modern Linux distribution**.
 Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fedora** and **Arch Linux**.
 
-**Please proceed to the next step:**  
-[Continue to Installation Setup](#next-step)
+**Please proceed to the next section:**  
+[Next-section](#next-section)
 
 > **Tip:** Make sure your system is fully updated to avoid dependency issues.
 
