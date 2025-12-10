@@ -47,9 +47,12 @@ Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fed
 
 ## <img width="60" height="99" alt="Apple" src="https://github.com/user-attachments/assets/572f0449-ff65-40f0-af24-5ce1f5df805b" /> macOS
 
-works on **macOS 14 Sonoma or later**.
+Requires **macOS 14 Sonoma or later**.
 
-Ensure you have **Homebrew** installed for easy dependency management.
+Ollama requires some dependencies that are easily managed with **Homebrew**.  
+Follow the official guide to install Homebrew: [https://brew.sh/](https://brew.sh/)
+
+Once installed, you can use Homebrew to manage dependencies like `curl`, `wget`, or `docker`.
 
 [**Please proceed to Installing Ollama on macOS**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Host%20Your%20AI%20Locally/Instructions.md#install-ollama-on-macos)
 
