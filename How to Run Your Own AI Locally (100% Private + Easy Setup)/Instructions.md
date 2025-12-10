@@ -176,6 +176,7 @@ Installing **Ollama** is very simple and works on most modern Linux distribution
 
 ### Run the Official Installer
 Execute the following command in your terminal.
+
 ⚠️ Important: Always verify scripts downloaded from the internet. This is the official Ollama installation script.
 
     curl -fsSL https://ollama.com/install.sh | sh
