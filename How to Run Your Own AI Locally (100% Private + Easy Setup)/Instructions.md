@@ -81,7 +81,7 @@ This will display a list of valid Linux distributions you can install with WSL.
 
 To install your preferred distribution (e.g., Debian, Ubuntu), run:
 
-    wsl --install -d Debian
+    wsl --install Debian
 
 
 <img width="1916" height="965" alt="Screenshot From 2025-12-10 08-42-41" src="https://github.com/user-attachments/assets/a8bd3ff3-7bc9-4b18-b0ed-16ae40de993a" />
