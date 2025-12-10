@@ -1,8 +1,8 @@
 # Self-Hosted Your AI: Run Locally on Your Laptop or PC, Home Server (Proxmox VE), or in the Cloud on a Virtual Private Server (VPS).
 
-Whether you’re on **Windows**, **Linux**, a **home server with Proxmox VE**, or a **VPS**, this guide will walk you **step by step** through installing, configuring, and running your AI locally or remotely.
+Whether you’re on **Linux**, **Windows**, **macOS**, a **home server with Proxmox VE**, or a **VPS**, this guide will walk you **step by step** through installing, configuring, and running your AI locally or remotely.
 
-I will cover how to **self-host [Open WebUI](https://github.com/open-webui/open-webui)** using [**Ollama**](https://github.com/ollama/ollama) as the LLM runner.
+I will cover how to **self-host [Open WebUI](https://github.com/open-webui/open-webui)** using docker and [**Ollama**](https://github.com/ollama/ollama) as the LLM runner.
 
 Open WebUI is an **extensible, feature-rich, and user-friendly AI platform** designed to operate entirely offline.
 
@@ -43,6 +43,15 @@ Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fed
 [**Please proceed to the Firewall Configuration**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Run%20Your%20Own%20AI%20Locally%20(100%25%20Private%20+%20Easy%20Setup)/Instructions.md#1-firewall-configuration)  
 
 > **Tip:** Make sure your system is fully updated to avoid dependency issues.
+
+
+---
+
+## <img width="29" height="33" alt="macos" src="https://github.com/user-attachments/assets/014fd61d-a933-4112-90fa-ea30141fcb44" /> macOS Users
+
+Ensure you have **Homebrew** installed for easy dependency management.
+
+[**Please proceed to the Firewall Configuration**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Run%20Your%20Own%20AI%20Locally%20(100%25%20Private%20+%20Easy%20Setup)/Instructions.md#1-firewall-configuration)
 
 ---
 ## <img width="29" height="33" alt="windows" src="https://github.com/user-attachments/assets/13a9c536-b927-4759-9a5c-526d24ed4808" /> Windows Users
@@ -194,3 +203,21 @@ If running on a VPS:
 
     http://Your-IP-Address:11434
 You should see a confirmation or API status page, indicating the Ollama API is running correctly.
+
+
+# Install Ollama on macOS:
+
+Installing **Ollama** on macOS is simple and works on **macOS 12 Monterey and later**.  
+You can install Ollama either via the official **.dmg installer** or, if you prefer, using the terminal with the same curl script as Linux.
+
+---
+
+### Download and Install via .dmg
+
+1. Go to the official Ollama website: [https://ollama.com/download/mac](https://ollama.com/download/mac)  
+2. Download the `.dmg` file.  
+3. Open the downloaded `.dmg` and drag **Ollama** into your Applications folder.  
+4. Launch Ollama from Applications.
+
+> ⚠️ Important: Always download software from the official website to ensure safety.
+
