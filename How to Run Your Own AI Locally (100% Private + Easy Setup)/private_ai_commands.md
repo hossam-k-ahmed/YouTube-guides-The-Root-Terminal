@@ -30,12 +30,21 @@ WSL lets you run a full Linux environment directly on Windows — perfect for AI
 
 This will:  
 
-- Enable WSL on your Windows system  
-- Install the latest WSL 2 version  
-- Download the default Ubuntu Linux distribution  
+- Enable WSL on your Windows system.  
+- Install the latest WSL 2 version.
 
 Once installation completes, **restart your computer**.  
-After reboot, you can launch **Ubuntu** from the Start Menu and continue with the commands below.  
+After reboot, you can check available Linux distributions by opening the Command Prompt (cmd) and running:
+
+
+    wsl --list --online
+
+
+This will display a list of valid Linux distributions you can install with WSL.
+
+
+<img width="1916" height="965" alt="Screenshot From 2025-12-10 08-32-18" src="https://github.com/user-attachments/assets/0b6a6b16-9ce4-429d-9f00-b27708f5bbc2" />
+
 
 ---
 
