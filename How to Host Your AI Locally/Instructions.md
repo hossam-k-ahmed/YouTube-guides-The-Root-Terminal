@@ -38,6 +38,9 @@ Ollama allows you to run LLMs locally with a simple interface, and Open WebUI pr
 
 Compatible systems include popular distros such as **Debian**, **Ubuntu**, **Fedora** and **Arch Linux**.
 
+### ⚠️ Make sure you have **Docker installed** before proceeding.  
+Follow the official Docker installation guide for your distribution: [https://docs.docker.com/engine/install/](https://docs.docker.com/engine/install/)
+
 [**Please proceed to the Firewall Configuration**](https://github.com/hossam-k-ahmed/YouTube-Guides-The-Root-Terminal/blob/main/How%20to%20Host%20Your%20AI%20Locally/Instructions.md#firewall-configuration)  
 
 > **Tip:** Make sure your system is fully updated to avoid dependency issues.
